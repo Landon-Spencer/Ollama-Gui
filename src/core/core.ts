@@ -10,7 +10,7 @@ const instance = new SimpleCore<ICoreType>(
     focused_conv_data: [],
     focused_conv_id: "",
     focused_conv_meta: {} as any,
-    server_host: "http://127.0.0.1:11435",
+    server_host: "http://127.0.0.1:11434",
     server_connected: false,
     last_used_model: "",
     available_models: [],
